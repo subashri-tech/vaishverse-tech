@@ -1,0 +1,6 @@
+{
+  "name": "KRYPTO - AI Opportunity & Fellowship Discovery",
+  "description": "Intelligent AI-powered student opportunity matching, scholarships, hackathons, fellowships, grants, and eligibility engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
